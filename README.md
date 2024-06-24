@@ -11,10 +11,10 @@ Infocom System is a landing page for a company specializing in IT and Telecom se
 - Online purchase link
 
 ### Technologies Used
--React js
--Tailwind css
--JavaScript
--React Lottie: Integrates Lottie animations into React projects.
--React Multi Carousel: Provides a carousel component for displaying images or content in a carousel format.
+- React js
+- Tailwind css
+- JavaScript
+- React Lottie: Integrates Lottie animations into React projects.
+- React Multi Carousel: Provides a carousel component for displaying images or content in a carousel format.
 - HTML
 
