@@ -1,0 +1,63 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* 
+.root {
+  background-color: #000;
+}
+@font-face {
+  font-family: "MyRegular";
+  src:
+    local("FilsonProRegular"),
+    url("./assets/font/FilsonProRegular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "MyThin";
+  src:
+    local("FilsonProThin"),
+    url("./assets/font/FilsonProThin.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "MyMedium";
+  src:
+    local("FilsonProMedium"),
+    url("./assets/font/FilsonProMedium.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "MyHeavy";
+  src:
+    local("FilsonProHeavy"),
+    url("./assets/font/FilsonProHeavy.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "MyBook";
+  src:
+    local("FilsonProBook"),
+    url("./assets/font/FilsonProBook.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "MyLight";
+  src:
+    local("FilsonProLight"),
+    url("./assets/font/FilsonProLight.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "MyBold";
+  src:
+    local("FilsonProBold"),
+    url("./assets/font/FilsonProBold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "MyBlack";
+  src:
+    local("FilsonProBlack"),
+    url("./assets/font/FilsonProBlack.otf") format("opentype");
+} */
